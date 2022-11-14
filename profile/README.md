@@ -1,7 +1,7 @@
 # 🙋‍ 2022.2 - Módulo Game - Turma 6 - Dell
 
 ## 🎯 O objetivo:
-Auxiliar seus colaboradores na transição do seu antigo modelo de desenvolvimento de software para um novo foco em produtos.
+Auxiliar seus colaboradores na transição do seu antigo modelo de desenvolvimento de software para um novo, focado em produtos.
 
 ## 💻 Os jogos:
 
