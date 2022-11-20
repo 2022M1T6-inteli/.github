@@ -6,7 +6,7 @@ Auxiliar seus colaboradores na transição do seu antigo modelo de desenvolvimen
 ## 💻 Os jogos:
 
 - Grupo 1 - Thunder Tech - Game PomaLand:
-  - Link do repositório: https://github.com/2022M1T6-inteli/PomaLand
+  - Link do repositório: https://github.com/2022M1T6-inteli/Thunder-Tech
   - Link para jogar: https://2022m1t6-inteli.github.io/PomaLand/
 
 - Grupo 2 - UpLink - Game Zero To Hero:
