@@ -12,7 +12,7 @@ Colaboradores Dell
 
 - Grupo 1 - Thunder Tech - Game PomaLand:
   - Link do repositório: https://github.com/2022M1T6-inteli/Thunder-Tech
-  - Link para jogar: https://2022m1t6-inteli.github.io/PomaLand/
+  - Link para jogar: https://2022m1t6-inteli.github.io/Thunder-Tech/
 
 - Grupo 2 - UpLink - Game Zero To Hero:
   - Link do repositório: https://github.com/2022M1T6-inteli/UpLink
